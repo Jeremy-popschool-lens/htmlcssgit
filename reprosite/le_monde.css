@@ -4,15 +4,20 @@ h1 {
 	color: silver;
 	font-family: Times New Roman, italic;
 }
-}
+
+
 header {
 	background-color: black;
 	text-align: center;
 }
 
+
 h3 {
-	margin-top: 5%;
-	color: silver;
+
+		color: blue;
+}
+
+
 }
 @media (min-width: 768px) {
 
