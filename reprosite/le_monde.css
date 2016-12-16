@@ -138,7 +138,7 @@ nav li a {
 	background-color: gold;
 }
 body {
-	background-color: aliceblue;
+	background-color: silver;
 }
 
 p {
@@ -155,7 +155,7 @@ p {
 #p2 {
 
 		position: absolute;
-		left: 7%;
+		left: 9%;
 }
 
 #p3 {
@@ -167,7 +167,7 @@ p {
 #art1 {
 
 		position: absolute;
-		left: 35%;
+		left: 37%;
 }
 
 .img-responsive {
@@ -179,7 +179,7 @@ p {
 #title4 {
 
 		position: absolute;
-		left: 35%;
+		left: 37%;
 }
 
 section {
@@ -189,3 +189,30 @@ section {
 		margin-left: 9%;
 		margin-right: 8%;
 }
+
+#sect2 {
+
+		padding: 1%;
+		font-weight: bold;
+		color: blue;
+}
+
+.vign {
+
+		margin-top: 25px;
+}
+
+#vign1 {
+
+		margin-top: 20px;
+}
+
+#vign2 {
+
+		margin-top: 20px;
+}
+
+.p00 {
+		margin-top: 20px;
+}
+
