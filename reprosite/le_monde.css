@@ -144,7 +144,30 @@ body {
 p {
 	color: black;
 	font-size: 13px;
+}
 
+#p1 {
+
+		position: absolute;
+		left: 37%;
+}
+
+#p2 {
+
+		position: absolute;
+		left: 7%;
+}
+
+#p3 {
+
+		position: relative;
+		left: 33%;
+}
+
+#art1 {
+
+		position: absolute;
+		left: 35%;
 }
 
 .img-responsive {
@@ -153,8 +176,16 @@ p {
 
 }
 
-#actu4 {
+#title4 {
 
 		position: absolute;
 		left: 35%;
+}
+
+section {
+
+		background: white;
+		margin-top: 2%;
+		margin-left: 9%;
+		margin-right: 8%;
 }
