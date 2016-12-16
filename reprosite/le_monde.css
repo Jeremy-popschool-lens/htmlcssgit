@@ -15,6 +15,8 @@ header {
 h3 {
 
 		color: blue;
+		font-size: 17px;
+		font-weight: bold;
 }
 
 
@@ -136,11 +138,23 @@ nav li a {
 	background-color: gold;
 }
 body {
-	background-image: url(http://charpente-heid.com/gifs/fond.jpg)
+	background-color: aliceblue;
 }
 
 p {
-	color: silver;
+	color: black;
+	font-size: 13px;
+
 }
 
+.img-responsive {
+			position: inherit;
+			left: -35%;
 
+}
+
+#actu4 {
+
+		position: absolute;
+		left: 35%;
+}
