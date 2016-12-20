@@ -1,14 +1,17 @@
-h1 {
-	background-color: black;
-	text-align: center;
-	color: silver;
-	font-family: Times New Roman, italic;
+html {
+
+		background: silver;
 }
 
 
 header {
-	background-color: black;
-	text-align: center;
+		background-color: black;
+		text-align: center;
+}
+
+navbar {
+
+		color: white;
 }
 
 
@@ -51,99 +54,24 @@ h3 {
 
 }
 .col-md-3 {
-	font-size: 80%;
-	text-decoration: bold;
+		font-size: 80%;
+		text-decoration: bold;
 }
 
 .image {
-	margin-left: 1%;
+		margin-left: 1%;
 }
 
 .image 2 {
-	margin-right: 1%;
+		margin-right: 1%;
 }
 .image 3 {
 	
 }
 
-nav ul {        
-	list-style-type:none;
-    padding: 15px;
-    margin: 0px;
-    text-align:center;
-    top:10%;
-    margin-left:0%;
-    margin-right: 0%;
-    margin-top: 5%;
-    font-family: sans-serif;
-    font-size: 100%; 
-    text-decoration: bold;  
-}
-nav li {        
-	display:inline;
-    text-align: center;
-    border: solid 1px;
-    
-}
-nav li a {
-    text-decoration: none;
-    color: black;
-	margin: 0 2px;
-	border-radius: solid 2px;
-	border-color: black;
-}
-
-.couleur1{
-	background-color: grey;
-}
-.couleur2 {
-	background-color: #0066CC;
-}
-.couleur3 {
-	background-color: #330033;
-}
-.couleur4 {
-	background-color: red;
-}
-.couleur5 {
-	background-color: #FF3333;
-}
-.couleur6 {
-	background-color: #FF0033;	
-}
-.couleur7 {
-	background-color: #333333;
-}
-.couleur8 {
-	background-color: #339900;
-}
-.couleur9 {
-	background-color: #33FF00;
-}
-.couleur10 {
-	background-color: #3399FF;
-}
-.couleur11 {
-	background-color: #006666;
-	
-}
-.couleur12 {
-	background-color: #FF6600;
-}
-.couleur13 {
-	background-color: #333333;
-
-}
-.couleur14 {
-	background-color: gold;
-}
-body {
-	background-color: silver;
-}
-
 p {
-	color: black;
-	font-size: 13px;
+		color: black;
+		font-size: 13px;
 }
 
 #p1 {
@@ -171,8 +99,8 @@ p {
 }
 
 .img-responsive {
-			position: inherit;
-			left: -35%;
+		position: inherit;
+		left: -35%;
 
 }
 
@@ -212,7 +140,55 @@ section {
 		margin-top: 20px;
 }
 
-.p00 {
+#vign3 {
+
+		margin-top: 20px;
+}
+
+#vign4 {
+
+		margin-top: 20px;
+}
+
+#vign5 {
+
+		margin-top: 20px;
+}
+
+#vign6 {
+
+		margin-top: 20px;
+}
+
+#vign7 {
+
+		margin-top: 20px;
+}
+
+
+
+#p03 {
+
+		margin-top: 20px;
+}
+
+#p04 {
+		margin-top: 20px;
+}
+
+#p05 {
+		margin-top: 20px;
+}
+
+#p06 {
+		margin-top: 20px;
+}
+
+#p07 {
+		margin-top: 20px;
+}
+
+#p08 {
 		margin-top: 20px;
 }
 
