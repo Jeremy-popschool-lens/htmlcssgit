@@ -3,10 +3,14 @@ body {
 		background-color: #e9edf0;
 }
 
+.container-fluid {
+
+		height: 5%;
+}
+
 
 .navbar-inverse {
 		background: #010c16;
-		padding-top: 1px;
 		height: 25px;
 		line-height: 25px;
 		border-radius: none;
@@ -26,7 +30,6 @@ body {
 }
 
 
-
 h3 {
 
 		color: blue;
@@ -37,9 +40,9 @@ h3 {
 
 @media (min-width: 768px) {
 
-  .container {
+	.container {
 
-    width: 750px;
+		width: 750px;
 
   }
 
@@ -47,9 +50,9 @@ h3 {
 
 @media (min-width: 992px) {
 
-  .container {
+	.container {
 
-    width: 970px;
+		width: 970px;
 
   }
 
@@ -57,9 +60,9 @@ h3 {
 
 @media (min-width: 1200px) {
 
-  .container {
+	.container {
 
-    width: 1170px;
+		width: 1170px;
 
   }
 
@@ -234,6 +237,6 @@ section {
 
 		position: absolute;
 		left: 72%;
-		top: 256%;
+		top: 252%;
 }
 
