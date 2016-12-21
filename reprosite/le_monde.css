@@ -1,18 +1,30 @@
-html {
+body {
 
-		background: silver;
+		background-color: #e9edf0;
 }
 
 
-header {
-		background-color: black;
+.navbar-inverse {
+		background: #010c16;
+		padding-top: 1px;
+		height: 25px;
+		line-height: 25px;
+		border-radius: none;
 		text-align: center;
 }
 
-navbar {
-
-		color: white;
+.menu1 {
+		position: relative;
+		left: 9%;
+		color: #e9edf0;
+		font-size: 12px;
+		display: block;
+		float:left;
+		padding: 0 7px;
+		border-left: 1px solid #626a72;
+		border-right: 1px solid #16212c;
 }
+
 
 
 h3 {
@@ -23,7 +35,6 @@ h3 {
 }
 
 
-}
 @media (min-width: 768px) {
 
   .container {
@@ -190,5 +201,39 @@ section {
 
 #p08 {
 		margin-top: 20px;
+}
+
+#videotitle {
+
+		font-weight: bold;
+		font-size: 23px;
+		color: white;
+		text-align: center;
+}
+
+
+#sectvideos {
+
+		background-color: #000b15;
+}
+
+
+#video1 {
+
+		position: relative;
+		left: 11%;
+}
+
+#video2 {
+
+		position: relative;
+		left: 33%;
+}
+
+#video3 {
+
+		position: absolute;
+		left: 72%;
+		top: 256%;
 }
 
